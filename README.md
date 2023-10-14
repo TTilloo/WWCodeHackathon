@@ -21,10 +21,11 @@ To do:
   - Oct 15 & 16:
       - dive deep into the data: picking variables regarding payability (Vy & Tanvi)
       - decide on the details of the demographic characteristics of each personas
-  - Oct 17 & 18:
+  - Oct 17
       - data exploration: different maps and graphs (Vy ?)
+  - Oct 18 & 19:
       - run regressions for each personas (Vy & Tanvi, split personas half half)
-  - Oct 19:
+      - iterate regression -> visualize
       - visualize the code on Shiny app (Tanvi & Vy ?)
   - Oct 20:
       - demo/walkthrough (Tanvi / Vy split ?)
