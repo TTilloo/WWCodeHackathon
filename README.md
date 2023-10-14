@@ -27,7 +27,7 @@ To do:
   - Oct 19:
       - visualize the code on Shiny app (Tanvi & Vy ?)
   - Oct 20:
-      - demo/walkthrough (Tanvi ?)
+      - demo/walkthrough (Tanvi / Vy split ?)
 
 Personas:
   - A: likely rejected
