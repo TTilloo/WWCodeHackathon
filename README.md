@@ -15,7 +15,7 @@ Oct 16-20 (work week)
 Oct 21: finalize end product
 Oct 22: deadline
 
-To do:
+# To do:
   - Oct 14:
       - decide on end product: visualization of the regression, data exploratory maps and graphs that proves our hypothesis (interactive web app from R, i.e. Shiny App)
   - Oct 15 & 16:
@@ -30,12 +30,13 @@ To do:
   - Oct 20:
       - demo/walkthrough (Tanvi / Vy split ?)
 
-Personas:
+
+# Personas:
   - A: likely rejected
   - B: complete opposite of A
   - C: basically the same, good candidate, 1 factor cannot control (race, etc.)  -> get access or no access
   - D: fall short -> give benefit of the doubt 
 
-Hypothesis:
+#Hypothesis:
 1) worst persona better off by looking at the financial history using our regression -> we prove our model is better than the credit evaluation traditional model.
 2) millions of america are subjected to snap shot of behaviors for lending decision. We believe that looking at one's financial history and behaviors over time is a better indicator and a more comprehensive evaluation of lendabiliy
