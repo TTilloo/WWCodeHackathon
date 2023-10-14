@@ -16,18 +16,24 @@ Oct 21: finalize end product
 Oct 22: deadline
 
 To do:
-  - decide on end product: visualization of the regression, data exploratory maps and graphs that proves our hypothesis (interactive web app from R, i.e. Shiny App)
-  - 
-  - demo/walkthrough
-  - data exploration: different maps and graphs showing the 
-  - picking variables regarding payability
-  - run regressions for each personas
+  - Oct 14:
+      - decide on end product: visualization of the regression, data exploratory maps and graphs that proves our hypothesis (interactive web app from R, i.e. Shiny App)
+  - Oct 15 & 16:
+      - dive deep into the data: picking variables regarding payability (Vy & Tanvi)
+      - decide on the details of the demographic characteristics of each personas
+  - Oct 17 & 18:
+      - data exploration: different maps and graphs (Vy ?)
+      - run regressions for each personas (Vy & Tanvi, split personas half half)
+  - Oct 19:
+      - visualize the code on Shiny app (Tanvi & Vy ?)
+  - Oct 20:
+      - demo/walkthrough (Tanvi ?)
 
 Personas:
-  A: likely rejected
-  B: complete opposite of A
-  C: basically the same, good candidate, 1 factor cannot control (race, etc.)  -> get access or no access
-  D: fall short -> give benefit of the doubt 
+  - A: likely rejected
+  - B: complete opposite of A
+  - C: basically the same, good candidate, 1 factor cannot control (race, etc.)  -> get access or no access
+  - D: fall short -> give benefit of the doubt 
 
 Hypothesis:
 1) worst persona better off by looking at the financial history using our regression -> we prove our model is better than the credit evaluation traditional model.
