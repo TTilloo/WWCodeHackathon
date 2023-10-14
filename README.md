@@ -24,10 +24,10 @@ To do:
   - run regressions for each personas
 
 Personas:
-A: likely rejected
-B: complete opposite of A
-C: basically the same, good candidate, 1 factor cannot control (race, etc.)  -> get access or no access
-D: fall short -> give benefit of the doubt 
+  A: likely rejected
+  B: complete opposite of A
+  C: basically the same, good candidate, 1 factor cannot control (race, etc.)  -> get access or no access
+  D: fall short -> give benefit of the doubt 
 
 Hypothesis:
 1) worst persona better off by looking at the financial history using our regression -> we prove our model is better than the credit evaluation traditional model.
