@@ -16,7 +16,7 @@ Oct 21: finalize end product
 Oct 22: deadline
 
 =======
-# To do:
+## To do:
   - Oct 14:
       - decide on end product: visualization of the regression, data exploratory maps and graphs that proves our hypothesis (interactive web app from R, i.e. Shiny App)
   - Oct 15 & 16:
