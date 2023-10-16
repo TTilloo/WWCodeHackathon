@@ -90,6 +90,7 @@ Oct 22: deadline
 - ER79933  	W10 WTR OWN BUSINESS/FARM
 - ER80001  	W38A WTR HAVE CREDIT/STORE CARD DEBT
 - ER79062  	GCOVID16 HOW MNG FINAN - TAKE OUT A LOAN
+- 
 
 Key words:
 Loan/lending:
@@ -106,6 +107,6 @@ Living expense
 10/16/23
 - Problem: only have variables about repayment loans for car and mortgage, no variables on repayment of other loans, no variables on paying utilities
 - Solutions:
-    - Look at behavioral over time! (finish highschool, move out by 18, etc.)
+    - Look at behavioral of an individual over time! (finish highschool, move out by 18, etc.)
     - Research on Behavioral changes as indicator of trustfulness, trustworthiness, etc. that relate to payability: Character Lab (UPenn) -> child dev -> prediction of child flourish, psychology of money (Book)
     - Taking a multicultural, multigenerationl perspective, justifying the take on behavioral and cultural turn
