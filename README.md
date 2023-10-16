@@ -58,3 +58,40 @@ Oct 22: deadline
   - 1.10 Credit Mix: A diverse mix of credit types (credit cards, loans, mortgages) can positively impact your credit score
 3. Recreate the credit score model in terms of payability: Regress those credit score to a variable of payability
 4. Regress our chosen alternative variables against payability
+
+=======
+## Variables
+ER34995  	H5N7/H50G WTR CHNGE HNDLNG MONEY ISSUE21
+ER78091  	A31 DOLLARS RENT
+ER78093  	ACCURACY OF RENT
+ER78098  	A33 GOVT PAY PART RENT?
+ER78114  	A42A FUEL EXPENSE PER
+ER78117  	A42C COMBINED GAS/ELECT EXPENSE
+ER78122  	A44 TELEPHONE EXPENSE PER
+ER78125  	A45B TOTAL OTR UTILITIES
+R81914  	TOTAL EXPENDITURE (mortgage & property tax - own a home)
+ER81915  	TOTAL CONSUMPTION WITH RENTAL VALUE (rent value - rent) -> compare with household income 
+ER81775  	TOTAL FAMILY INCOME-2020
+ER81630  	OVERTIME INCOME OF REF PERSON-2020
+ER81631  	ACC OVERTIME INCOME OF RP-2020 -> hustle (extra money)
+ER81836  	IMP WEALTH W/O EQUITY (WEALTH1) 2021 -> change over year (up and down)
+ER81837  	ACC WEALTH W/O EQUITY (WEALTH1) 2021 
+ER81354  	M4 WTR DONATED TO ORGANIZATION FOR NEEDY
+R81336  	IMMSTATUS - SP
+
+NUM CHILDREN
+ER81189  	L70 #YRS WRKD SINCE 18-RP
+H11E WTR DIFFICULT MANAGE MONEY-SP
+ER80697  	H11E WTR DIFFICULT MANAGE MONEY-RP
+
+Key words:
+Loan/lending:
+- Mortgage
+- Refinance
+- foreclosure, bankrupt
+  
+Living expense
+- rent, grocery, insurance, gas
+- utilities, utility, eletricity, water, heating, wifi
+- house, mortgage, propterty tax,
+
