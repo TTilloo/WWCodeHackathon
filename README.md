@@ -101,3 +101,11 @@ Living expense
 - rent, grocery, insurance, gas
 - utilities, utility, eletricity, water, heating, wifi
 - house, mortgage, propterty tax,
+
+=======
+10/16/23
+- Problem: only have variables about repayment loans for car and mortgage, no variables on repayment of other loans, no variables on paying utilities
+- Solutions:
+    - Look at behavioral over time! (finish highschool, move out by 18, etc.)
+    - Research on Behavioral changes as indicator of trustfulness, trustworthiness, etc. that relate to payability: Character Lab (UPenn) -> child dev -> prediction of child flourish, psychology of money (Book)
+    - Taking a multicultural, multigenerationl perspective, justifying the take on behavioral and cultural turn
