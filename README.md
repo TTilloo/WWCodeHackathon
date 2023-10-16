@@ -110,3 +110,5 @@ Living expense
     - Look at behavioral of an individual over time! (finish highschool, move out by 18, etc.)
     - Research on Behavioral changes as indicator of trustfulness, trustworthiness, etc. that relate to payability: Character Lab (UPenn) -> child dev -> prediction of child flourish, psychology of money (Book)
     - Taking a multicultural, multigenerationl perspective, justifying the take on behavioral and cultural turn
+    - Controlling: first gen (white, hispanic, etc.)
+        control for baseline characteristics to make arg tighter, this person have the non-control feature -> always the preferred candidate
