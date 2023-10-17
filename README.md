@@ -61,6 +61,8 @@ Oct 22: deadline
 
 =======
 ## Variables
+
+Family Level
 - ER34995  	H5N7/H50G WTR CHNGE HNDLNG MONEY ISSUE21
 - ER78091  	A31 DOLLARS RENT
 - ER78093  	ACCURACY OF RENT
@@ -90,7 +92,13 @@ Oct 22: deadline
 - ER79933  	W10 WTR OWN BUSINESS/FARM
 - ER80001  	W38A WTR HAVE CREDIT/STORE CARD DEBT
 - ER79062  	GCOVID16 HOW MNG FINAN - TAKE OUT A LOAN
-- 
+- ER77487  	IMP WTR STUDENT LOAN DEBT (W38B1) 2019
+- ER77488  	ACC WTR STUDENT LOAN DEBT (W38B1) 2019
+- ER77489  	IMP VAL STUDENT LOAN DEBT (W39B1) 2019
+- ER77490  	ACC VAL STUDENT LOAN DEBT (W39B1) 2019
+  
+Individual level data
+
 
 Key words:
 Loan/lending:
@@ -112,3 +120,12 @@ Living expense
     - Taking a multicultural, multigenerationl perspective, justifying the take on behavioral and cultural turn
     - Controlling: first gen (white, hispanic, etc.)
         control for baseline characteristics to make arg tighter, this person have the non-control feature -> always the preferred candidate
+      A person's payability depends on family level payability (multicultural and multigenerational household)
+      How should financial institution go about looking at the financial data of a family
+
+
+Credit payment: Ability and willingness to pay to debt (equally determine how they pay for that): 
+  Impatience, impulsiveness (presence bias, discount future, borrow today, harm future by taking on debt today) -> high borrow today = high default in the future
+  Risk tolerance and trustworthiness 
+  - self eval fin health -> strong presence bias -> more risky
+  - borrow for post secondary education
