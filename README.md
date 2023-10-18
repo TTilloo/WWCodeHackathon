@@ -32,7 +32,7 @@ Oct 22: deadline
       - demo/walkthrough (Tanvi / Vy split ?)
     
 =======
-## Personas:
+## Personas: (low and income, multicultural - non-white, multigenerational, number of the dependants, presence of 65+ age, 
   - A: likely rejected
   - B: complete opposite of A
   - C: basically the same, good candidate, 1 factor cannot control (race, etc.)  -> get access or no access
@@ -96,6 +96,25 @@ Family Level
 - ER77488  	ACC WTR STUDENT LOAN DEBT (W38B1) 2019
 - ER77489  	IMP VAL STUDENT LOAN DEBT (W39B1) 2019
 - ER77490  	ACC VAL STUDENT LOAN DEBT (W39B1) 2019
+- ER73374  	G44E WTR HELP FROM RELATIVES-RP
+- ER73376  	AMOUNT HELP FROM RELATIVES PER-RP
+- ER73375  	AMOUNT HELP FROM RELATIVES-RP
+- ER73377  	ACCURACY OF HELP FROM RELATIVES-RP
+- ER73888  	W38B WTR HAS LOANS FROM RELATIVES
+- ER73905  	W39B4 AMOUNT LOANS FROM RELATIVES
+- ER76690  	H61D2 WTR ANY FU MEMBER HLTH INSURANCE
+- ER76692  	H61J PER FU INSURANCE PREMIUMS
+
+- 
+Demographic:
+- ER76960  	L68A RELIGIOUS PREFERENCE-RP
+- R76897  	L40 RACE OF REFERENCE PERSON-MENTION 1
+- ER76898  	L40 RACE OF REFERENCE PERSON-MENTION 2
+- ER76899  	L40 RACE OF REFERENCE PERSON-MENTION 3
+- ER76900  	L40 RACE OF REFERENCE PERSON-MENTION 4
+- ER76901  	L40A ASIAN ETHNICITY OF REFERENCE PERSON
+- ER76902  	L41 ETHNIC GROUP-RP
+- ER76906  	YEAR HIGHEST EDUCATION UPDATED-RP
   
 Individual level data
 
@@ -123,9 +142,10 @@ Living expense
       A person's payability depends on family level payability (multicultural and multigenerational household)
       How should financial institution go about looking at the financial data of a family
 
-
 Credit payment: Ability and willingness to pay to debt (equally determine how they pay for that): 
-  Impatience, impulsiveness (presence bias, discount future, borrow today, harm future by taking on debt today) -> high borrow today = high default in the future
-  Risk tolerance and trustworthiness 
+  - Impatience, impulsiveness (presence bias, discount future, borrow today, harm future by taking on debt today) -> high borrow today = high default in the future
+  Risk tolerance and trustworthiness
   - self eval fin health -> strong presence bias -> more risky
+  Variables:
   - borrow for post secondary education
+
