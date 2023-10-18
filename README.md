@@ -112,6 +112,11 @@ Family Level
 - ER72985  	GSD12 WTR USED MONEY FR RETIREMENT ACCTS
 - ER72983  	GSD10 WTR PUT OFF PAYING BILLS
 
+Employment Behavior 
+-   ER78408   	BC8 WTR UNEMPLOYED(RP) -> unemployed during any time in 2020 
+-   ER78427     C7 WTR OUT OF LABOR FORCE (RP) -> data exists for every 2 years since '03
+-   ER78477   	BC68 CKPT: WTR NOT WRKING/NOT LOOKING
+-   
 
 Demographic:
 - ER76960  	L68A RELIGIOUS PREFERENCE-RP
