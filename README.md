@@ -104,8 +104,11 @@ Family Level
 - ER73905  	W39B4 AMOUNT LOANS FROM RELATIVES
 - ER76690  	H61D2 WTR ANY FU MEMBER HLTH INSURANCE
 - ER76692  	H61J PER FU INSURANCE PREMIUMS
+- ER76916  	L49 GRADE OF SCHOOL FINISHED-RP
+- ER72413  	BC62 WTR EVER WORKED
+- ER72407  	BC60ACKPT WTR CURRENTLY WORKING
 
-- 
+
 Demographic:
 - ER76960  	L68A RELIGIOUS PREFERENCE-RP
 - R76897  	L40 RACE OF REFERENCE PERSON-MENTION 1
@@ -115,8 +118,6 @@ Demographic:
 - ER76901  	L40A ASIAN ETHNICITY OF REFERENCE PERSON
 - ER76902  	L41 ETHNIC GROUP-RP
 - ER76906  	YEAR HIGHEST EDUCATION UPDATED-RP
-  
-Individual level data
 
 
 Key words:
@@ -148,4 +149,5 @@ Credit payment: Ability and willingness to pay to debt (equally determine how th
   - self eval fin health -> strong presence bias -> more risky
   Variables:
   - borrow for post secondary education
-
+  - laid off
+  - 
